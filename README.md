@@ -1,2 +1,3 @@
 # hello-world
-iMy first Android apl
+My first Android application, hello-world
+Just making changes. 
